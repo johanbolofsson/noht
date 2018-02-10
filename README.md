@@ -1,2 +1,2 @@
 # noht
-Don't forget to read your notes.
+Don't forget to read your nohts.
